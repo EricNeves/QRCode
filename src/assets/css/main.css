@@ -12,6 +12,9 @@
     text-decoration: none;
 }
 body {
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
     font-family: 'Nunito Sans', sans-serif;
     background: var(--light);
     display: flex;
@@ -21,7 +24,6 @@ body {
 
 main {
     width: min(300px, 100%);
-    margin-top: 3rem;
     padding: 1rem;
     background: var(--white);
     border-radius: .8rem;
