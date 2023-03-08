@@ -2,7 +2,7 @@ import QRCode from "qrcode"
 
 const path = document.querySelector('canvas')
 
-const info = 'https://github.com/ericneves'
+const info = 'https://github.com/EricNeves/QRCode'
 
 const options = {
     light: '#FFFFFF',
