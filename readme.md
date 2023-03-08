@@ -6,7 +6,7 @@
 
 <p>Projeto simples proposto pela plataforma <a href="https://www.frontendmentor.io/">Frontend Mentor</a>. Neste projeto algumas features foram implementadas juntamente com o uso do Webpack, Babel, da biblioteca QRCode e entre outros.</p>
 
-<p>Frontend Mentor/Projeto: https://www.frontendmentor.io/solutions/qr-code-component-e98HtSxW_t</p>
+<p>Solução: https://www.frontendmentor.io/solutions/qr-code-component-e98HtSxW_t</p>
 
 <img src=".github/screenshot.png">
 
