@@ -16,7 +16,7 @@
 # Website: https://qrcoderq.netlify.app/
 
 # Clone
-$ git clone 
+$ git clone https://github.com/EricNeves/QRCode.git
 
 # Install Dependencies
 $ cd QRCode && npm install
