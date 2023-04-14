@@ -42,6 +42,11 @@ canvas img {
     background: var(--blue);
     z-index: 999;
 }
+canvas {
+    width: 80% !important;
+    height: 100% !important;
+    object-fit: cover;
+}
 
 .text__info {
     text-align: center;
