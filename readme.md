@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/github/license/ericneves/qrcode?logo=appveyor&style=for-the-badge"> <img src="https://img.shields.io/github/last-commit/ericneves/qrcode?logo=appveyor&style=for-the-badge">
 
-<p>Projeto simples proposto pela plataforma <a href="https://www.frontendmentor.io/">Frontend Mentor</a>. Neste projeto algumas features foram implementadas juntamente com o uso do Webpack, Babel, da biblioteca QRCode e entre outros.</p>
+<p>Projeto simples proposto pela plataforma <a href="https://www.frontendmentor.io/">Frontend Mentor</a>. Neste projeto algumas features foram implementadas juntamente com o uso do Webpack, Babel, [QRCode](https://www.npmjs.com/package/qrcode) e entre outros.</p>
 
 <p>Solução: https://www.frontendmentor.io/solutions/qr-code-component-CyOyGF1nxN</p>
 
